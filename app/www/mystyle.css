@@ -1,0 +1,6 @@
+body {background-color: coral;}
+
+body, label, input, button, select { 
+      font-family: 'Arial';
+      font color=#dec4de;
+    }
